@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>1c60ef25-bb99-4196-b5bf-3690748dc13d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M376 232H216V72c0-4.42-3.58-8-8-8h-32c-4.42 0-8 3.58-8 8v160H8c-4.42 0-8 3.58-8 8v32c0 4.42 3.58 8 8 8h160v160c0 4.42 3.58 8 8 8h32c4.42 0 8-3.58 8-8V280h160c4.42 0 8-3.58 8-8v-32c0-4.42-3.58-8-8-8z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;g-row&quot;]/div[@class=&quot;g-col g-col-lg-9&quot;]/div[@class=&quot;product-listing-cards&quot;]/div[@class=&quot;product-card&quot;]/div[@class=&quot;product-card-content&quot;]/div[@class=&quot;product-card-qty-wrap&quot;]/div[@class=&quot;product-qty-selector pricing-units&quot;]/div[@class=&quot;product-card-qty&quot;]/div[@class=&quot;qty&quot;]/button[@class=&quot;qty-button qty-plus&quot;]/span[@class=&quot;qty-button-icon&quot;]/svg[@class=&quot;svg-inline--fa fa-plus fa-w-12&quot;]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
